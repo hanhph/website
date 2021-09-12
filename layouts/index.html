@@ -24,6 +24,9 @@
    {{ if .Site.Params.showExperience }}
        {{ partial "portfolio/experience.html" . }}
    {{ end }}
+   {{ if .Site.Params.showPublication }}
+       {{ partial "portfolio/publication.html" . }}
+   {{ end }}
    {{ if .Site.Params.showEducation }}
        {{ partial "portfolio/education.html" . }}
    {{ end }}

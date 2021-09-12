@@ -38,6 +38,11 @@
             <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showPublication }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#publication">Publication</a>
+          </li>
+      {{ end }}
       {{ if .Site.Params.showEducation }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
