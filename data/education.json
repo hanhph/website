@@ -1,0 +1,20 @@
+[
+    {
+        "school":"The University of Iowa College of Public Health",
+        "degree":"Doctor of Philosophy",
+        "major":"Biostatistics",
+        "range":"2020-2023 (expected)"
+    },{
+        "school":"The University of Iowa College of Public Health",
+        "degree":"Master of Science",
+        "major":"Biostatistics",
+        "range":"2018-2020"
+    },
+    {
+        "school":"Grinnell College",
+        "degree":"Bachelor of Arts",
+        "major":"Mathematics",
+        "note":"Honors", 
+        "range":"2013 - 2017"
+    }
+]

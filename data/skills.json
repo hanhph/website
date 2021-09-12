@@ -1,0 +1,9 @@
+[
+  {
+      "grouping":"Data Analysis",
+      "skills":[ "R", "SAS"]
+  },{
+      "grouping":"Version Control",
+      "skills":[ "Git"]
+  }
+]

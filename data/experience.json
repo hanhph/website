@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Graduate Research Assistant",
+        "company":"Prevention Research Center @ UIowa",
+        "summary":"\n- list\n- of\n- things",
+        "range":"August 2018 - Present"
+    },
+    {
+        "role":"Graduate Research Assistant",
+        "company":"Biostatistical Consulting Center @ UIowa",
+        "summary":"Provided statistical consulting service such as running analysis and debugging code for faculties and graduate students at UIowa",
+        "range":"August 2020 - Present"
+    }
+]
